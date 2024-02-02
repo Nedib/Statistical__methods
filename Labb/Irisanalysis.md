@@ -1,12 +1,12 @@
 # Morphological Characteristics of Iris Flowers
 
-![Sample Image](your_image_url) <!-- Replace "your_image_url" with the actual URL or path to your image -->
+
 
 # Introduction:
 
+![Sample Image](visualization/82-826789_iris-iris-sepal-and-petal.png)
 *This report presents a correlation analysis of iris petals and sepals, exploring the significant correlation between their width and length. The dataset includes measurements from 150 iris flowers categorized into three subspecies: Iris Setosa, Iris Versicolor, and Iris Virginica, with four measurements each, including petal and sepal width and length.*
 
-![Sample Image](your_image_url) <!-- Replace "your_image_url" with the actual URL or path to your image -->
 
 ## Hypotheses
 
