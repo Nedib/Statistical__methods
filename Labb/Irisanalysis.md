@@ -66,6 +66,9 @@ The results from the conducted correlation analysis provide support for drawing 
   On the other hand, the results strongly support the alternative hypothesis ($H_{1a}$), postulating a significant correlation between petal length ($X$) and width ($Y$). Statistical analyses and calculations clearly show a significant correlation between these morphological characteristics.
   
 
+  *Petal correlation: r = 0.963, p = 5.776660988495174e-86*
+  *Sepal correlation: r = -0.109, p = 0.18276521527136963*
+
 # Conclusions
 
 - For petal measurements, a significant correlation between width and length is observed, suggesting that a linear regression model is suitable for predictions within the sample.
